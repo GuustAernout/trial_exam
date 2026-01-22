@@ -1,0 +1,7 @@
+#create a repo via the github website
+#clone
+git clone git@github.com:GuustAernout/trial_exam.git
+#creating and adding exercise1.txt
+nano excercise1.txt
+git add exercise1.txt
+git commit -m "this is the solution to question 1"
